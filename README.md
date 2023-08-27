@@ -8,9 +8,6 @@ This Markdown file provides an overview of a simple IMC (Body Mass Index) calcul
 2. [Features](#features)
 3. [Implementation Details](#implementation-details)
     - [HTML Structure](#html-structure)
-    - [JavaScript (code.js)](#javascript-codejs)
-    - [CSS (style.css)](#css-stylecss)
-4. [Conclusion](#conclusion)
 
 ## Overview
 
