@@ -2,6 +2,16 @@
 
 This Markdown file provides an overview of a simple IMC (Body Mass Index) calculator app developed using HTML, CSS, and Vanilla JavaScript.
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Implementation Details](#implementation-details)
+    - [HTML Structure](#html-structure)
+    - [JavaScript (code.js)](#javascript-codejs)
+    - [CSS (style.css)](#css-stylecss)
+4. [Conclusion](#conclusion)
+
 ## Overview
 
 The IMC calculator app allows users to calculate their Body Mass Index (BMI) based on their gender, height, weight, and age inputs. The app provides a user interface with sliders and buttons for input and interaction.
